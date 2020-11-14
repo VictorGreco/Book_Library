@@ -32,7 +32,7 @@
     <br />
     <a href="https://github.com/victorgreco/book-library">View Demo</a>
     ·
-    <a href="https://github.com/victorgreco/book-library/issues">book-libraryrt Bug</a>
+    <a href="https://github.com/victorgreco/book-library/issues">book-library Bug</a>
     ·
     <a href="https://github.com/victorgreco/book-library/issues">Request Feature</a>
   </p>
